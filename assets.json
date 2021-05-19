@@ -1,3 +1,4 @@
+[
 {
 	"issue_date": "2008-10-30",
 	"total_supply": "21000000",
@@ -6,4 +7,15 @@
 	"website": "https://bitcoin.org",
 	"block_explorer": "https://www.blockchain.com/explorer",
 	"description": "Bitcoin (₿) is a cryptocurrency invented in 2008 by an unknown person or group of people using the name Satoshi Nakamoto. The currency began use in 2009 when its implementation was released as open-source software. ... Bitcoins are created as a reward for a process known as mining."
+},
+{
+        "issue_date": "2009-10-30",
+        "total_supply": "21000000",
+        "circulation": "18247575",
+        "white_paper": "https://litecoin.org/litecoin.pdf",
+        "website": "https://litecoin.org",
+        "block_explorer": "https://www.blockchain.com/explorer",
+        "description": "Litecoin"
 }
+
+]
