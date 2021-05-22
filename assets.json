@@ -1,5 +1,7 @@
 [
 {
+	"name": "Bitcoin"
+	"symbol": "BTC"
 	"issue_date": "2008-10-30",
 	"total_supply": "21,000,000",
 	"circulation": "18,247,575",
@@ -9,7 +11,9 @@
 	"description": "Bitcoin (₿) is a cryptocurrency invented in 2008 by an unknown person or group of people using the name Satoshi Nakamoto. The currency began use in 2009 when its implementation was released as open-source software. ... Bitcoins are created as a reward for a process known as mining."
 },
 {
-        "issue_date": "2011-10-13",
+        "name": "Litecoin"
+	"symbol": "LTC"
+	"issue_date": "2011-10-13",
         "total_supply": "84,000,000",
         "circulation": "66,752,415",
         "white_paper": "https://litecoin.org/litecoin.pdf",
@@ -18,16 +22,20 @@
         "description": "Litecoin is a peer-to-peer Internet currency that enables instant, near-zero cost payments to anyone in the world. Litecoin is an open source, global payment network that is fully decentralized. Mathematics secures the network and empowers individuals to control their own finances."
 },
 {
-        "issue_date": "2013-12-06",
+        "name": "Dogecoin"
+	"symbol": "DOGE"
+	"issue_date": "2013-12-06",
         "total_supply": "121,162,098,417",
         "circulation": "121,162,098,417",
         "white_paper": "-",
         "website": "http://dogecoin.com",
         "block_explorer": "https://dogechain.info/chain/Dogecoin",
-        "description": "DogeCoin is a cryptocurrency created by software engineers Billy Markus and Jackson Palmer, who decided to create a payment system as a joke, making fun of the wild speculation in cryptocurrencies at the time. Dogecoin features the face of the Shiba Inu dog from the "Doge" meme as its logo and namesake."
+        "description": "Dogecoin is a cryptocurrency created by software engineers Billy Markus and Jackson Palmer, who decided to create a payment system as a joke, making fun of the wild speculation in cryptocurrencies at the time. Dogecoin features the face of the Shiba Inu dog from the "Doge" meme as its logo and namesake."
 },
 {
-        "issue_date": "2018-01-03",
+        "name": "Ravencoin"
+	"symbol": "RVN"
+	"issue_date": "2018-01-03",
         "total_supply": "21,000,000,000",
         "circulation": "8,819,730,000",
         "white_paper": "https://ravencoin.org/assets/documents/Ravencoin.pdf",
@@ -36,7 +44,9 @@
         "description": "Ravencoin is a digital peer to peer network that aims to implement a use case specific blockchain, designed to efficiently handle one specific function: the transfer of assets from one party to another."
 },
 {
-        "issue_date": "2014-01-10",
+        "name": "Digibyte"
+	"symbol": "DGB"
+	"issue_date": "2014-01-10",
         "total_supply": "21,000,000,000",
         "circulation": "14,316,386,358",
         "white_paper": "https://digibyte.org/docs/infopaper.pdf",
@@ -45,7 +55,9 @@
         "description": "DigiByte is a decentralized global UTXO PoW based blockchain (just like Bitcoin) with a focus on Cyber Security, DigiAssets, Payments & Secure communications technologies."
 },
 {
-        "issue_date": "2017-08-01",
+        "name": "Bitcoin Cash"
+	"symbol": "BCH"
+	"issue_date": "2017-08-01",
         "total_supply": "21,000,000",
         "circulation": "18,739,825",
         "white_paper": "https://bch.info/bitcoin.pdf",
@@ -54,7 +66,9 @@
         "description": "Bitcoin Cash is a hard fork of Bitcoin which was developed to fight Bitcoin’s scalability problem. Bitcoin Cash mining is very similar to that of its predecessor, the codebase of the fork wasn’t changed critically either."
 },
 {
-        "issue_date": "2018-11-15",
+        "name": "Bitcoin SV"
+	"symbol": "BSV"
+	"issue_date": "2018-11-15",
         "total_supply": "21,000,000",
         "circulation": "18,735,239",
         "white_paper": "https://bitcoin.org/bitcoin.pdf",
@@ -63,7 +77,9 @@
         "description": "Bitcoin SV is a fork of the Bitcoin Cash cryptocurrency that was designed as an attempt to represent the initial vision of cryptocurrency. The “SV” acronym stands for “Satoshi Vision” referring to the first cryptocoin developer’s pseudonym."
 },
 {
-        "issue_date": "2018-11-14",
+        "name": "Yadacoin"
+	"symbol": "YDA"
+	"issue_date": "2018-11-14",
         "total_supply": "21,000,000",
         "circulation": "8,911,400",
         "white_paper": "-",
@@ -72,7 +88,9 @@
         "description": "YadaCoin is a blockchain social media protocol project that aims to enable micro-services with social media features that can seamlessly inter-operate to collectively offer a superior social media experience and finally defeat the current social media monopoly held by major tech companies."
 },
 {
-        "issue_date": "2017-10-10",
+        "name": "Luxcoin"
+	"symbol": "LUX"
+	"issue_date": "2017-10-10",
         "total_supply": "12,343,360",
         "circulation": "11,343,384",
         "white_paper": "https://luxcore.io/pdf/luxcore_commercial_wp_v2.1.pdf",
@@ -81,7 +99,9 @@
         "description": "Luxcore is a blockchain solutions and services ecosystem that focuses on designing and building enterprise ready security and privacy products."
 },
 {
-        "issue_date": "2020-02-19",
+        "name": "FoxDcoin"
+	"symbol": "FOXD"
+	"issue_date": "2020-02-19",
         "total_supply": "21,000,000,000",
         "circulation": "3,257,760,000",
         "white_paper": "-",
@@ -90,7 +110,9 @@
         "description": "FoxdCoin is an open-source project designed to enable instant payments to anyone around the world. The aim of the project is to create a blockchain optimized specifically for the transfer of assets such as tokens from one holder to another."
 },
 {
-        "issue_date": "2020-03-18",
+        "name": "IBitcoin"
+	"symbol": "IBTC"
+	"issue_date": "2020-03-18",
         "total_supply": "84,000,000",
         "circulation": "-",
         "white_paper": "-",
@@ -99,7 +121,9 @@
         "description": "iBTC aims to be a more decentralized version of Bitcoin. This is accomplished using Satoshi's Missing Link - VBR Decentralization Algorithm. The Variable Block Reward (VBR) feature is the engine behind promoting more decentralization."
 },
 {
-        "issue_date": "2021-05-03",
+        "name": "Ergon"
+	"symbol": "XRG"
+	"issue_date": "2021-05-03",
         "total_supply": "21,000,000",
         "circulation": "-",
         "white_paper": "https://bitcoin.org/bitcoin.pdf",
@@ -108,7 +132,9 @@
         "description": "Ergon is a bitcoin with proportional reward - a block reward is proportional to the current difficulty, corrected for Moore's law. The goal of this design is to stabilize the price of a single unit in the long term."
 },
 {
-        "issue_date": "2021-01-04",
+        "name": "Tidecoin"
+	"symbol": "TDC"
+	"issue_date": "2021-01-04",
         "total_supply": "21,000,000",
         "circulation": "8,986,800",
         "white_paper": "https://github.com/tidecoin/whitepaper/blob/master/tidecoin.pdf",
@@ -117,7 +143,9 @@
         "description": "Tidecoin is a peer-to-peer Internet currency that enables instant, near-zero cost payments to anyone in the world. Tidecoin is an open source global payment network, and fully decentralized without any central authorities. Features of Post-Quantum security make Tidecoin as a replacement to Bitcoin."
 },
 {
-        "issue_date": "2019-07-07",
+        "name": "CPUchain"
+	"symbol": "CPU"
+	"issue_date": "2019-07-07",
         "total_supply": "21,000,000",
         "circulation": "49,028,400",
         "white_paper": "https://cpuchain.org/assets/v1.pdf",
@@ -126,7 +154,9 @@
         "description": "CPUchain describes itself as a non-premine CPU mineable proof-of-work currency with a gigablock scaling roadmap. Its vision is to build a community-driven currency that supports millions of transactions per second under PoW consensus."
 },
 {
-        "issue_date": "2021-03-19",
+        "name": "Optical Bitcoin"
+	"symbol": "oBTC"
+	"issue_date": "2021-03-19",
         "total_supply": "21,000,000",
         "circulation": "504,602",
         "white_paper": "https://assets.pubpub.org/xi9h9rps/01581688887859.pdf",
@@ -135,13 +165,48 @@
         "description": "Optical Bitcoin [oBTC] is an experimental Bitcoin fork using oPoW, proof of work algorithm for optical computers developed by PoWx"
 },
 {
-        "issue_date": "2019-12-28",
+        "name": "Kevacoin"
+	"symbol": "KVA"
+	"issue_date": "2019-12-28",
         "total_supply": "1,050,000,000",
         "circulation": "163,680,500",
         "white_paper": "-",
         "website": "https://kevacoin.org",
         "block_explorer": "https://explorer.kevacoin.org",
         "description": "Kevacoin is a cryptocurrency for the blockchain that supports easy and flexible Key-Value data store. Use it like Redis or other popular data store, except that the data is stored on the public blockchain that is not owned by any entities"
+},
+{
+        "name": "Realcoin"
+	"symbol": "REA"
+	"issue_date": "2021-02-22",
+        "total_supply": "100,000,000",
+        "circulation": "-",
+        "white_paper": "https://real-coin.in/download/RealCoin_WhitePaper_V1.pdf",
+        "website": "https://real-coin.in",
+        "block_explorer": "https://trezor.real-coin.in",
+        "description": "RealCoin Is A Digital Currency That Enables Instant Payments To Anyone, Anywhere In The World."
+},
+{
+        "name": "Lightbit"
+	"symbol": "LITB"
+	"issue_date": "2019-08-11",
+        "total_supply": "21,000,000",
+        "circulation": "7,245,144",
+        "white_paper": "-",
+        "website": "https://lightbit.tech",
+        "block_explorer": "https://blocks.lightbit.tech",
+        "description": "LightBit is a peer-to-peer Internet currency offering instant, low cost fees to users around the globe."
+},
+{
+        "name": "PesetaDigital"
+	"symbol": "PTD"
+	"issue_date": "2021-04-15",
+        "total_supply": "166,386,000",
+        "circulation": "143,616,822",
+        "white_paper": "http://pesetacoin.info/ficheros/Pesetacoin%20WhitePaper%20ESP.pdf",
+        "website": "https://www.pesetadigital.es",
+        "block_explorer": "https://explorer.pesetadigital.es",
+        "description": "LightBit is a peer-to-peer Internet currency offering instant, low cost fees to users around the globe."
 }
 
 ]
