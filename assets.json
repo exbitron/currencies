@@ -86,7 +86,7 @@
     {
         "name": "Yadacoin",
         "symbol": "YDA",
-        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/yada.png"
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/yada.png",
         "issue_date": "2018-11-14",
         "total_supply": "21,000,000",
         "circulation": "8,911,400",
@@ -98,7 +98,7 @@
     {
         "name": "Luxcoin",
         "symbol": "LUX",
-        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/luxcoin.png"
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/luxcoin.png",
         "issue_date": "2017-10-10",
         "total_supply": "12,343,360",
         "circulation": "11,343,384",
@@ -110,7 +110,7 @@
     {
         "name": "FoxDcoin",
         "symbol": "FOXD",
-        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/foxd.png"
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/foxd.png",
         "issue_date": "2020-02-19",
         "total_supply": "21,000,000,000",
         "circulation": "3,257,760,000",
@@ -122,7 +122,7 @@
     {
         "name": "IBitcoin",
         "symbol": "IBTC",
-        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/ibtc.png"
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/ibtc.png",
         "issue_date": "2020-03-18",
         "total_supply": "84,000,000",
         "circulation": "-",
@@ -134,7 +134,7 @@
     {
         "name": "Ergon",
         "symbol": "XRG",
-        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/xrg.png"
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/xrg.png",
         "issue_date": "2021-05-03",
         "total_supply": "21,000,000",
         "circulation": "-",
@@ -146,7 +146,7 @@
     {
         "name": "Tidecoin",
         "symbol": "TDC",
-        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/tdc.png"
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/tdc.png",
         "issue_date": "2021-01-04",
         "total_supply": "21,000,000",
         "circulation": "8,986,800",
@@ -158,7 +158,7 @@
     {
         "name": "CPUchain",
         "symbol": "CPU",
-        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/cpuchain.png"
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/cpuchain.png",
         "issue_date": "2019-07-07",
         "total_supply": "21,000,000",
         "circulation": "49,028,400",
@@ -170,7 +170,7 @@
     {
         "name": "Optical Bitcoin",
         "symbol": "oBTC",
-        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/obtc.png"
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/obtc.png",
         "issue_date": "2021-03-19",
         "total_supply": "21,000,000",
         "circulation": "504,602",
@@ -182,7 +182,7 @@
     {
         "name": "Kevacoin",
         "symbol": "KVA",
-        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/kva.png"
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/kva.png",
         "issue_date": "2019-12-28",
         "total_supply": "1,050,000,000",
         "circulation": "163,680,500",
@@ -194,7 +194,7 @@
     {
         "name": "Realcoin",
         "symbol": "REA",
-        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/real.png"
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/real.png",
         "issue_date": "2021-02-22",
         "total_supply": "100,000,000",
         "circulation": "-",
@@ -206,7 +206,7 @@
     {
         "name": "Lightbit",
         "symbol": "LITB",
-        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/litb.png"
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/litb.png",
         "issue_date": "2019-08-11",
         "total_supply": "21,000,000",
         "circulation": "7,245,144",
@@ -218,7 +218,7 @@
     {
         "name": "PesetaDigital",
         "symbol": "PTD",
-        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/pesetadigital.png"
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/pesetadigital.png",
         "issue_date": "2021-04-15",
         "total_supply": "166,386,000",
         "circulation": "143,616,822",
