@@ -14,7 +14,7 @@
     {
         "name": "Litecoin",
         "symbol": "LTC",
-         "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/litecoin.png",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/litecoin.png",
         "issue_date": "2011-10-13",
         "total_supply": "84,000,000",
         "circulation": "66,752,415",
