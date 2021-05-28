@@ -226,5 +226,53 @@
         "website": "https://www.pesetadigital.es",
         "block_explorer": "https://explorer.pesetadigital.es",
         "description": "Spanish Cryptocurrency."
+    },
+    {
+        "name": "REV Coin",
+        "symbol": "REV",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/rev.png",
+        "issue_date": "2018",
+        "total_supply": "20,000,000,000",
+        "circulation": "",
+        "white_paper": "https://www.exnce.com/whitepapers/revelationcoin.pdf",
+        "website": "https://revelationcoinproject.com",
+        "block_explorer": "",
+        "description": "The Revelation Coin Project is a grass roots crypto research, development andimplementation project based on the expectation that in the future there will be a forcedimplementation of a cashless, one world currency implemented by the leader of a one world government."
+    },
+    {
+        "name": "Pupacoin",
+        "symbol": "PPCN",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/puppa.png",
+        "issue_date": "2021-05-13",
+        "total_supply": "21,000,000",
+        "circulation": "14,017,540",
+        "white_paper": "-",
+        "website": "http://pupacoin.com",
+        "block_explorer": "http://explorer.pupacoin.com",
+        "description": "Pupacoin aims to be a community driven, open source and fan made operated blockchain for animated sitcom Solar Opposites."
+    },
+    {
+        "name": "Titcoin",
+        "symbol": "TIT",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/titcoin.png",
+        "issue_date": "2014",
+        "total_supply": "69,000,000",
+        "circulation": "67,182,957",
+        "white_paper": "-",
+        "website": "https://titcoin.github.io",
+        "block_explorer": "http://explorer.kriptokyng.com:3001",
+        "description": "Titcoin is a cryptocurrency for the adult community."
+    },
+    {
+        "name": "Danecoin",
+        "symbol": "DANE",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/danecoin.png",
+        "issue_date": "2021-04-09",
+        "total_supply": "14,500,000",
+        "circulation": "1,867,100",
+        "white_paper": "-",
+        "website": "https://danecoin.org",
+        "block_explorer": "https://explorer.danecoin.org",
+        "description": "Danecoin is a revolutionary peer-to-peer electronic cash system that allows you to send money over the internet, without any restrictions."
     }
 ]
