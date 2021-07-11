@@ -346,5 +346,41 @@
         "website": "https://butcoin.tech/",
         "block_explorer": "https://explorer.butcoin.tech/",
         "description": "ButKoin is a decentralized secure cryptocurrency that is easy to mine devoid from 51% attack and it provide easy means of transactions between individuals."
+    },
+    {
+        "name": "InfoCoin",
+        "symbol": "INFO",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/info.png",
+        "issue_date": "2017-06-15",
+        "total_supply": "2,500,000,000",
+        "circulation": "-",
+        "white_paper": "-",
+        "website": "https://cryptoinfo.net/",
+        "block_explorer": "https://info.urcryptodepot.com/",
+        "description": "InfoCoin is intended as a tool for people new to crypto in general. To mine,trade and learn."
+    },
+    {
+        "name": "WhatCoin",
+        "symbol": "WATC",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/watc.png",
+        "issue_date": "2021-07-02",
+        "total_supply": "21,000,000,000",
+        "circulation": "-",
+        "white_paper": "-",
+        "website": "https://www.whatcoin.cash/",
+        "block_explorer": "https://explorer.whatcoin.cash/",
+        "description": "WhatCoin is focused on solving real world problems through innovation and Blockchain technology. We have real world use cases out of the box and will continue to expand on WhatCoin's uses on a continual basis through continued innovation and development."
+    },
+    {
+        "name": "Einsteinium",
+        "symbol": "EMC2",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/emc2.png",
+        "issue_date": "2014-03-01",
+        "total_supply": "245,465,283",
+        "circulation": "221,830,268",
+        "white_paper": "https://download.emc2.foundation/docs/MIL-Coin-Blue-Paper.pdf",
+        "website": "https://emc2.foundation/",
+        "block_explorer": "https://chainz.cryptoid.info/emc2/",
+        "description": "Einsteinium is a digital currency which uses an immutable, decentralized open ledger called a blockchain to ensure security and transparency for all."
     }
 ]
