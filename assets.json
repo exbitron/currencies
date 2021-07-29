@@ -312,18 +312,6 @@
         "description": "Tron is a blockchain-based decentralized platform that aims to build a free, global digital content entertainment system with distributed storage technology, and allows easy and cost-effective sharing of digital content."
     },
     {
-        "name": "Mynt",
-        "symbol": "MYNT",
-        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/mynt.png",
-        "issue_date": "2018",
-        "total_supply": "1,000,000,000",
-        "circulation": "728,320,500",
-        "white_paper": "-",
-        "website": "https://getmynt.io/",
-        "block_explorer": "https://insight.getmynt.io/",
-        "description": "Mynt is an experimental digital currency that enables instant payments to anyone, anywhere in the world. Mynt uses peer-to-peer technology to operate with no central authority: managing transactions and issuing money are carried out collectively by the network."
-    },
-    {
         "name": "Tether",
         "symbol": "USDT",
         "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/tether.png",
@@ -382,5 +370,41 @@
         "website": "https://emc2.foundation/",
         "block_explorer": "https://chainz.cryptoid.info/emc2/",
         "description": "Einsteinium is a digital currency which uses an immutable, decentralized open ledger called a blockchain to ensure security and transparency for all."
+    },
+    {
+        "name": "Bitcoin Candy",
+        "symbol": "CDY",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/cdy.png",
+        "issue_date": "2018-01-01",
+        "total_supply": "21,000,000,000",
+        "circulation": "18,900,826,250",
+        "white_paper": "",
+        "website": "https://cdy.one/",
+        "block_explorer": "https://block.cdy.one/",
+        "description": "Bitcoin Candy(CDY) is a new chain forked from Bitcoin Cash at the height of 512666."
+    },
+    {
+        "name": "The Array",
+        "symbol": "UNITS",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/units.png",
+        "issue_date": "2021-05-27",
+        "total_supply": "-",
+        "circulation": "10,153,360",
+        "white_paper": "https://2array.com/wp-content/uploads/2021/05/A-Paper-01-.pdf",
+        "website": "https://2array.com/",
+        "block_explorer": "http://45.93.136.188:3001/",
+        "description": "The Array is a limitless reality that has an ability to transcend our understanding of what reality can be."
+    },
+    {
+        "name": "Scala",
+        "symbol": "XLA",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/xla.png",
+        "issue_date": "2018-01-22",
+        "total_supply": "21,000,000,000",
+        "circulation": "10,090,618,719",
+        "white_paper": "-",
+        "website": "https://scalaproject.io/",
+        "block_explorer": "https://explorer.scalaproject.io/",
+        "description": "Scala is an open-source cryptocurrency."
     }
 ]
