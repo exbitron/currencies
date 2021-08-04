@@ -406,5 +406,17 @@
         "website": "https://scalaproject.io/",
         "block_explorer": "https://explorer.scalaproject.io/",
         "description": "Scala is an open-source cryptocurrency."
+    },
+    {
+        "name": "Safechain",
+        "symbol": "SFC",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/sfc.png",
+        "issue_date": "2021-07-28",
+        "total_supply": "600,000,000",
+        "circulation": "-",
+        "white_paper": "-",
+        "website": "TBA",
+        "block_explorer": "TBA",
+        "description": "Safechain is a Safemoon crypto spin-off ."
     }
 ]
