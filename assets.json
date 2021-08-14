@@ -72,18 +72,6 @@
         "description": "Bitcoin Cash is a hard fork of Bitcoin which was developed to fight Bitcoin’s scalability problem. Bitcoin Cash mining is very similar to that of its predecessor, the codebase of the fork wasn’t changed critically either."
     },
     {
-        "name": "Bitcoin SV",
-        "symbol": "BSV",
-        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/bsv.png",
-        "issue_date": "2018-11-15",
-        "total_supply": "21,000,000",
-        "circulation": "18,735,239",
-        "white_paper": "https://bitcoin.org/bitcoin.pdf",
-        "website": "https://bitcoinsv.io",
-        "block_explorer": "https://blockchair.com/bitcoin-sv",
-        "description": "Bitcoin SV is a fork of the Bitcoin Cash cryptocurrency that was designed as an attempt to represent the initial vision of cryptocurrency. The “SV” acronym stands for “Satoshi Vision” referring to the first cryptocoin developer’s pseudonym."
-    },
-    {
         "name": "Yadacoin",
         "symbol": "YDA",
         "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/yada.png",
