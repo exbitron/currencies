@@ -192,18 +192,6 @@
         "description": "RealCoin Is A Digital Currency That Enables Instant Payments To Anyone, Anywhere In The World."
     },
     {
-        "name": "Lightbit",
-        "symbol": "LITB",
-        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/litb.png",
-        "issue_date": "2019-08-11",
-        "total_supply": "21,000,000",
-        "circulation": "7,245,144",
-        "white_paper": "-",
-        "website": "https://lightbit.tech",
-        "block_explorer": "https://blocks.lightbit.tech",
-        "description": "LightBit is a peer-to-peer Internet currency offering instant, low cost fees to users around the globe."
-    },
-    {
         "name": "PesetaDigital",
         "symbol": "PTD",
         "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/pesetadigital.png",
@@ -248,7 +236,7 @@
         "circulation": "67,182,957",
         "white_paper": "-",
         "website": "https://titcoin.github.io",
-        "block_explorer": "http://explorer.kriptokyng.com:3001",
+        "block_explorer": "https://aminingpool.com/explorer/TIT",
         "description": "Titcoin is a cryptocurrency for the adult community."
     },
     {
