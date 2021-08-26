@@ -406,5 +406,17 @@
         "website": "https://www.britishpoundcoin.co.uk/",
         "block_explorer": "http://explorer.britishpoundcoin.co.uk/",
         "description": "The British Pound Coin is a decentralized peer-to-peer banking financial platform to replace the classic British Pound Coin GBP in the cryptocurrency market, created under an open-source license, featuring a built-in cryptocurrency, end-to-end encrypted messaging, and decentralized marketplace."
+    },
+    {
+        "name": "Lotus",
+        "symbol": "XPI",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/lotus.png",
+        "issue_date": "2021-07-21",
+        "total_supply": "74,060,060",
+        "circulation": "-",
+        "white_paper": "-",
+        "website": "https://givelotus.org/",
+        "block_explorer": "https://explorer.givelotus.org/",
+        "description": "Lotus is the Token of Appreciation"
     }
 ]
