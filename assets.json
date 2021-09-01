@@ -418,5 +418,17 @@
         "website": "https://givelotus.org/",
         "block_explorer": "https://explorer.givelotus.org/",
         "description": "Lotus is the Token of Appreciation"
+    },
+    {
+        "name": "PESP Coin",
+        "symbol": "PESP",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/pespcoin.png",
+        "issue_date": "2021-06-29",
+        "total_supply": "7,900,000,000",
+        "circulation": "-",
+        "white_paper": "-",
+        "website": "https://www.pespcoin.org/",
+        "block_explorer": "http://explorer.pespcoin.com/",
+        "description": "The main utility of PESP is as a form of payment either on online shops or shops on the streets for goods and virtual goods, PESP will also be used as the only cryptocurrency on our network of online shops."
     }
 ]
