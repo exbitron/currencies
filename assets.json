@@ -430,5 +430,17 @@
         "website": "https://www.pespcoin.org/",
         "block_explorer": "http://explorer.pespcoin.com/",
         "description": "The main utility of PESP is as a form of payment either on online shops or shops on the streets for goods and virtual goods, PESP will also be used as the only cryptocurrency on our network of online shops."
+    },
+    {
+        "name": "UltraNote Infinity",
+        "symbol": "XUNI",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/xuni.png",
+        "issue_date": "2020-06-01",
+        "total_supply": "21,000,000",
+        "circulation": "-",
+        "white_paper": "https://ultranote.org/WHITEPAPER_ULTRANOTE2.0.pdf",
+        "website": "https://www.ultranote.org/",
+        "block_explorer": "https://stats.ultranote.org/",
+        "description": "The UltraNote Infinity (XUNI) Proof-of-Work (POW) blockchain network provides anonymous untraceable payments with an instantaneous encrypted messaging service (up to 100 Mb)."
     }
 ]
