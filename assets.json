@@ -454,5 +454,17 @@
         "website": "https://wrkz.work/",
         "block_explorer": "https://myexplorer.wrkz.work/",
         "description": "WrkzCoin is a cryptocurrency based on CryptoNote technology. Our goal is to build, create, and lead the next generation digital marketplace and eventually utilize a freelance work platform on which anyone can participate."
+    },
+    {
+        "name": "Ravencoin Lite",
+        "symbol": "RVL",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/ravenlite.png",
+        "issue_date": "2021-09-02",
+        "total_supply": "21,000,000,000",
+        "circulation": "74,720,011",
+        "white_paper": "-",
+        "website": "https://ravencoinlite.org/",
+        "block_explorer": "http://explorer.ravencoinlite.org/",
+        "description": "Ravencoin Lite is a fork of the original Ravencoin Classic code that has been used to create a new POW cryptocurrency!"
     }
 ]
