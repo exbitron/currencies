@@ -1,5 +1,13 @@
 [
   {
+    "url": "https://www.exbitron.com/trading/dynamousdt",
+    "img": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/siteANN/DYNAMO_SITE_ANN.png"
+  },
+  {
+    "url": "https://www.exbitron.com/trading/rnrcdoge",
+    "img": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/siteANN/RNRC_SITE_ANN.png"
+  },
+  {
     "url": "https://www.exbitron.com/trading/rvlusdt",
     "img": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/siteANN/RVL_SITE_ANN.png"
   },
@@ -12,12 +20,8 @@
     "img": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/siteANN/PESP_SITE_ANN.png"
   },
   {
-    "url": "https://www.exbitron.com/trading/xuniusdt",
+    "url": "https://www.exbitron.com/xuniusdt",
     "img": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/siteANN/XUNI_SITE_ANN.png"
-  },
-  {
-    "url": "https://www.exbitron.com/xpiusdt",
-    "img": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/siteANN/LOTUS_SITEANN.png"
   },
   {
     "url": "https://www.exbitron.com/",
