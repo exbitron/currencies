@@ -466,5 +466,29 @@
         "website": "https://ravencoinlite.org/",
         "block_explorer": "http://explorer.ravencoinlite.org/",
         "description": "Ravencoin Lite is a fork of the original Ravencoin Classic code that has been used to create a new POW cryptocurrency!"
+    },
+    {
+        "name": "Rock N Rain Coin",
+        "symbol": "RNRC",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/rock_n_rain.png",
+        "issue_date": "2019-03-26",
+        "total_supply": "40,000,000,000",
+        "circulation": "2,894,227,098,979",
+        "white_paper": "-",
+        "website": "https://rocknrain.com/",
+        "block_explorer": "http://explorer.rocknrain.com/",
+        "description": "Rock N Rain Coin is an an Entertainment and Promotional service that helps to promote and advertise new projects of all kinds. We help grow your discord by bringing the party to you."
+    },
+    {
+        "name": "Dynamo Coin",
+        "symbol": "DYNAMO",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/dynamocoin.png",
+        "issue_date": "-",
+        "total_supply": "-",
+        "circulation": "576,268",
+        "white_paper": "https://www.dynamocoin.org/white-paper/",
+        "website": "https://www.dynamocoin.org/",
+        "block_explorer": "http://explorer.dynamocoin.org/",
+        "description": "Dynamo coin is a proposal for an open-source crypto asset project which brings together several state-of-the-art technical features to form a unique value proposition."
     }
 ]
