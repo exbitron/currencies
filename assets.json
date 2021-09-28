@@ -490,5 +490,41 @@
         "website": "https://www.dynamocoin.org/",
         "block_explorer": "http://explorer.dynamocoin.org/",
         "description": "Dynamo coin is a proposal for an open-source crypto asset project which brings together several state-of-the-art technical features to form a unique value proposition."
+    },
+    {
+        "name": "GlobalToken",
+        "symbol": "GLT",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/globaltoken.png",
+        "issue_date": "2016",
+        "total_supply": "168,000,000",
+        "circulation": "130,764,474",
+        "white_paper": "-",
+        "website": "https://globaltoken.org/",
+        "block_explorer": "https://explorer.globaltoken.org/",
+        "description": "GlobalToken (GLT) is the world’s largest proof-of-work cryptocurrency with support for 60 mining algorithms, the most algorithms of any cryptocurrency."
+    },
+    {
+        "name": "Bitcoin Virtual Gold",
+        "symbol": "BVG",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/bvg.png",
+        "issue_date": "2021-05-19",
+        "total_supply": "21,000,000",
+        "circulation": "5,330,000",
+        "white_paper": "-",
+        "website": "https://www.bitcoinvg.org/",
+        "block_explorer": "https://explorer.bitcoinvg.org/",
+        "description": "BitcoinVG is developed to provide quick payments and store of value via the one minute Proof of Transaction (PoT) in every block."
+    },
+    {
+        "name": "DigitalNote",
+        "symbol": "XDN",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/xdn.png",
+        "issue_date": "2018-06-10",
+        "total_supply": "10,000,000,000",
+        "circulation": "8,059,287,836",
+        "white_paper": "https://digitalnote.org/wp-content/uploads/2020/02/DigitalNote_Whitepaper.pdf",
+        "website": "https://digitalnote.org/",
+        "block_explorer": "https://xdn-explorer.com/",
+        "description": "DigitalNote is a robust Proof-of-Work + Proof-of-Stake hybrid blockchain with instant transactions and highly secure encrypted messaging features at its core."
     }
 ]
