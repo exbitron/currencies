@@ -526,5 +526,41 @@
         "website": "https://digitalnote.org/",
         "block_explorer": "https://xdn-explorer.com/",
         "description": "DigitalNote is a robust Proof-of-Work + Proof-of-Stake hybrid blockchain with instant transactions and highly secure encrypted messaging features at its core."
+    },
+    {
+        "name": "ProfitForAll",
+        "symbol": "PFA",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/pfa.png",
+        "issue_date": "2021-10-01",
+        "total_supply": "∞",
+        "circulation": "5,122,054",
+        "white_paper": "-",
+        "website": "https://profitforall.net/",
+        "block_explorer": "http://140.82.4.77:3001/",
+        "description": "ProfitForAll is a decentralized and environmentally friendly cryptocurrency, where any user can perform the mining process without the need for an ASIC or GPU."
+    },
+    {
+        "name": "Alterdot",
+        "symbol": "ADOT",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/adot.png",
+        "issue_date": "2020-01-13",
+        "total_supply": "13,914,700",
+        "circulation": "11,968,715",
+        "white_paper": "-",
+        "website": "https://alterdot.network/",
+        "block_explorer": "https://explorer.alterdot.network/",
+        "description": "Alterdot uses peer-to-peer technology to operate securely with no central authority (decentralisation): managing transactions and issuing currency (ADOT) are carried out collectively by the Alterdot network."
+    },
+    {
+        "name": "DeroGold",
+        "symbol": "DEGO",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/derogold.png",
+        "issue_date": "2018-12-23",
+        "total_supply": "100,000,000,000,000",
+        "circulation": "17,223,905,869,336",
+        "white_paper": "-",
+        "website": "http://derogold.com/",
+        "block_explorer": "https://explorer.derogold.com/",
+        "description": "DeroGold is a digital assets project focused on preserving our life environment here on Earth."
     }
 ]
