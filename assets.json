@@ -562,5 +562,41 @@
         "website": "http://derogold.com/",
         "block_explorer": "https://explorer.derogold.com/",
         "description": "DeroGold is a digital assets project focused on preserving our life environment here on Earth."
+    },
+    {
+        "name": "SatoCoin",
+        "symbol": "SATO",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/satocoin.png",
+        "issue_date": "2021-03-10",
+        "total_supply": "8,000,000,000",
+        "circulation": "3,207,884,283",
+        "white_paper": "https://satonetwork.com/wp/Sato-wp-v1.1.pdf",
+        "website": "https://satonetwork.com/",
+        "block_explorer": "https://satoblockscan.xyz/",
+        "description": "Sato is a digital or virtual currency that is secured by cryptography, which makes it nearly impossible to counterfeit or double-spend."
+    },
+    {
+        "name": "Gieki Credits",
+        "symbol": "GKG",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/tokens/giekicredits.png",
+        "issue_date": "2021-08-23",
+        "total_supply": "990,000",
+        "circulation": "-",
+        "white_paper": "https://gieki.com/whitepaper",
+        "website": "https://gieki.com/",
+        "block_explorer": "https://tronscan.org/#/token20/THF4LctPNAno2vBjVhQucAgDxwbDtoSJWP",
+        "description": "Gieki Credits (GKG) Is A Community Based TRC20 Token Based On Tron Blockchain, Made For Multi Purpose Uses Like Games, Staking, Yield Farming Etc."
+    },
+        {
+        "name": "Goldencoin",
+        "symbol": "GLDN",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/tokens/goldencoin.png",
+        "issue_date": "2021-07-13",
+        "total_supply": "108,000,000",
+        "circulation": "5,836,092",
+        "white_paper": "-",
+        "website": "http://goldencoin.network/",
+        "block_explorer": "https://goldencoin.icu/",
+        "description": "Goldencoin (GLDN) is designed for the sports industry as a betting and tipping currency."
     }
 ]
