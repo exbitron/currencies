@@ -587,7 +587,7 @@
         "block_explorer": "https://tronscan.org/#/token20/THF4LctPNAno2vBjVhQucAgDxwbDtoSJWP",
         "description": "Gieki Credits (GKG) Is A Community Based TRC20 Token Based On Tron Blockchain, Made For Multi Purpose Uses Like Games, Staking, Yield Farming Etc."
     },
-        {
+    {
         "name": "Goldencoin",
         "symbol": "GLDN",
         "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/goldencoin.png",
@@ -598,5 +598,65 @@
         "website": "http://goldencoin.network/",
         "block_explorer": "https://goldencoin.icu/",
         "description": "Goldencoin (GLDN) is designed for the sports industry as a betting and tipping currency."
+    },
+    {
+        "name": "BitcoinV",
+        "symbol": "BTCV",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/btcv.png",
+        "issue_date": "2021-04",
+        "total_supply": "42,000,000",
+        "circulation": "-",
+        "white_paper": "https://www.bitcoinv.org/WhitePaper.pdf",
+        "website": "https://www.bitcoinv.org/",
+        "block_explorer": "https://explorer.bitcoinv.org/",
+        "description": "BitcoinV takes everything you know and love about Bitcoin and makes it more decentralized, more rewarding, and ready for real-life digital currency payments."
+    },
+    {
+        "name": "Qogecoin",
+        "symbol": "QOGE",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/qoge.png",
+        "issue_date": "2021-10-17",
+        "total_supply": "100,000,000",
+        "circulation": "6,464,709",
+        "white_paper": "-",
+        "website": "https://www.qogecoin.org/",
+        "block_explorer": "http://www.qogescan.com/",
+        "description": "Qogecoin a mineable peer to peer cryptocurrency."
+    },
+    {
+        "name": "69Coin",
+        "symbol": "ISN",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/69coin.png",
+        "issue_date": "2021-10-22",
+        "total_supply": "1,041,000,000",
+        "circulation": "800,850,433",
+        "white_paper": "-",
+        "website": "https://69coin.org/",
+        "block_explorer": "http://explorer.69coin.org/",
+        "description": "69 Coin is peer-to-peer digital cash."
+    },
+    {
+        "name": "Fedoracoin",
+        "symbol": "TIPS",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/fedoracoin.png",
+        "issue_date": "2014-03-31",
+        "total_supply": "500,000,000,000",
+        "circulation": "577,801,738,817",
+        "white_paper": "-",
+        "website": "https://fedoracoin.org/",
+        "block_explorer": "https://tipsbe.netcraft.ch/",
+        "description": "Fedoracoin is a peer-to-peer cryptocurrency, meaning it uses public-key cryptography which operates on a decentralized network of computers."
+    },
+    {
+        "name": "GNTL Coin",
+        "symbol": "GNTL",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/gntlcoin.png",
+        "issue_date": "Unknown",
+        "total_supply": "77,700,000",
+        "circulation": "12,030,495",
+        "white_paper": "-",
+        "website": "https://gntl.cash/",
+        "block_explorer": "https://explorer.pool.gntl.co.uk/",
+        "description": "GNTL Coin is an open-source community driven coin."
     }
 ]
