@@ -192,18 +192,6 @@
         "description": "RealCoin Is A Digital Currency That Enables Instant Payments To Anyone, Anywhere In The World."
     },
     {
-        "name": "PesetaDigital",
-        "symbol": "PTD",
-        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/pesetadigital.png",
-        "issue_date": "2021-04-15",
-        "total_supply": "166,386,000",
-        "circulation": "143,616,822",
-        "white_paper": "http://pesetacoin.info/ficheros/Pesetacoin%20WhitePaper%20ESP.pdf",
-        "website": "https://www.pesetadigital.es",
-        "block_explorer": "https://explorer.pesetadigital.es",
-        "description": "Spanish Cryptocurrency."
-    },
-    {
         "name": "REV Coin",
         "symbol": "REV",
         "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/rev.png",
@@ -322,18 +310,6 @@
         "website": "https://cryptoinfo.net/",
         "block_explorer": "https://info.urcryptodepot.com/",
         "description": "InfoCoin is intended as a tool for people new to crypto in general. To mine,trade and learn."
-    },
-    {
-        "name": "WhatCoin",
-        "symbol": "WATC",
-        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/watc.png",
-        "issue_date": "2021-07-02",
-        "total_supply": "21,000,000,000",
-        "circulation": "-",
-        "white_paper": "-",
-        "website": "https://www.whatcoin.cash/",
-        "block_explorer": "https://explorer.whatcoin.cash/",
-        "description": "WhatCoin is focused on solving real world problems through innovation and Blockchain technology. We have real world use cases out of the box and will continue to expand on WhatCoin's uses on a continual basis through continued innovation and development."
     },
     {
         "name": "Einsteinium",
