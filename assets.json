@@ -658,5 +658,41 @@
         "website": "https://gntl.cash/",
         "block_explorer": "https://explorer.pool.gntl.co.uk/",
         "description": "GNTL Coin is an open-source community driven coin."
+    },
+    {
+        "name": "Azzycoin",
+        "symbol": "AZY",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/azzycoin.png",
+        "issue_date": "2021-10-29",
+        "total_supply": "600,000,000",
+        "circulation": "155,789,100",
+        "white_paper": "-",
+        "website": "https://azzycoin.com/",
+        "block_explorer": "http://azzyexplorer.com/",
+        "description": "AzzyCoin is an online forum - by the community, for the community."
+    },
+    {
+        "name": "Kryptokrona",
+        "symbol": "XKR",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/kryptokrona.png",
+        "issue_date": "2020-10-30",
+        "total_supply": "1,000,000,000",
+        "circulation": "345,380,000",
+        "white_paper": "https://kryptokrona.se/Proposal_for_a_New_Nordic_Digital_Currency.pdf",
+        "website": "https://kryptokrona.se/",
+        "block_explorer": "https://explorer.kryptokrona.se/",
+        "description": "Kryptokrona (XKR) Is a cryptocurrency which is private, quick, and optimized for nordic users."
+    },
+    {
+        "name": "Fandom Gold",
+        "symbol": "XFG",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/fango.jpg",
+        "issue_date": "2018-01-09",
+        "total_supply": "8,000,000",
+        "circulation": "7,572,859",
+        "white_paper": "-",
+        "website": "https://fango.money/",
+        "block_explorer": "http://explorer.fango.money/",
+        "description": "Fango is a decentralized peer-to-peer network & privacy cryptocurrency based on the CryptoNote protocol which can be used to securely transfer, *create, & store monetary wealth- privately; functioning as a free & open alternative to centralized banking."
     }
 ]
