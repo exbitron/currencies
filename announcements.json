@@ -1,6 +1,12 @@
 [
   {
     "url": "#",
-    "message": "Planed maintenance on 11.12.2021 at 15:00-16:00"
+    "subject": "Planed maintenance on 09.12.2021 at 17:00-17:20 CET",
+    "content": "05.12 Update maintenance will happen, which will take maximum 4 hours. We are preparing IUM (finally) listing, fixing frontend bugs, edit cryptonote coins, and some small fixes. The RVL will stop all deposits on 05.12 so that all will run through, and start of the AVN deposits will resume after rebranding, the balances from the RVL will automatically move to the AVN, the RVL markets will shut down and the AVN will open We will also increase the minimum deposit ammount on coins because people don't listen to us and keep sending thousands of very small transactions every second from mining pools. We change ToS that mining on the exchange wallet will be AT YOUR OWN RISK and we will NOT provide support in missing transactions or other issues that have been risen between the pool and our exchange. So mining on the exchange will be prohibited!"
+  },
+  {
+    "url": "#",
+    "subject": "Scheduled maintenance on 05.12.2021 at 10:00-14:00 CET",
+    "content": "FAST MAINTENACE. We are going to replace old CAPTCHA so you all can log in ASAP."
   }
 ]
