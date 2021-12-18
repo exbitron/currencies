@@ -670,5 +670,101 @@
         "website": "https://fango.money/",
         "block_explorer": "http://explorer.fango.money/",
         "description": "Fango is a decentralized peer-to-peer network & privacy cryptocurrency based on the CryptoNote protocol which can be used to securely transfer, *create, & store monetary wealth- privately; functioning as a free & open alternative to centralized banking."
+    },
+    {
+        "name": "Bitblocks",
+        "symbol": "XBB",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/XBB.png",
+        "issue_date": "2021-04-29",
+        "total_supply": "100,000,000",
+        "circulation": "59,627,609",
+        "white_paper": "-",
+        "website": "https://bitblocks.cc/",
+        "block_explorer": "http://explorer.bitblocks.cc/",
+        "description": "Bitblocks has its own blockchain on which users can mine the native currency coins, XBB."
+    },
+    {
+        "name": "Bitcoin Staking",
+        "symbol": "BSK",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/bitcoins.png",
+        "issue_date": "2021-03-23",
+        "total_supply": "21,000,000",
+        "circulation": "12,972,564",
+        "white_paper": "-",
+        "website": "https://www.bitcoinstaking.org/",
+        "block_explorer": "https://explorer.bitcoinstaking.org/",
+        "description": "BitcoinS takes everything you know and love about Bitcoin and makes it more decentralized, more rewarding, and ready for real-life digital currency payments."
+    },
+    {
+        "name": "Galleoncoin",
+        "symbol": "GALE",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/galleon.png",
+        "issue_date": "2021-11-27",
+        "total_supply": "6,000,000,000",
+        "circulation": "1,043,310,000",
+        "white_paper": "https://www.galleoncoin.org/wp-content/uploads/2021/12/GalleoncoinWP-en.pdf",
+        "website": "https://www.galleoncoin.org/",
+        "block_explorer": "http://galleon.live/",
+        "description": "The GalleonCoin Platform is to be a mechanism to provide persons interested in the Hispanic heritage of the Philippines opportunity to become further immersed in it."
+    },
+    {
+        "name": "Kotia Cash",
+        "symbol": "KOT",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/kotia.png",
+        "issue_date": "2021-11-22",
+        "total_supply": "100,000,000",
+        "circulation": "3,113,168",
+        "white_paper": "https://kotia.cash/wp-content/uploads/2021/11/WP-kOTIA.Cash-project.pdf",
+        "website": "https://kotia.cash/",
+        "block_explorer": "http://185.177.59.35:3001/",
+        "description": "Kotia is decentralized, no single entity controls Kotia Cash."
+    },
+    {
+        "name": "Photonic Bitcoin",
+        "symbol": "pBTC",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/pbtc.png",
+        "issue_date": "2021-12-07",
+        "total_supply": "42,000,000",
+        "circulation": "178,650",
+        "white_paper": "-",
+        "website": "https://photonicbitcoin.com/",
+        "block_explorer": "https://explorer.photonicbitcoin.com/",
+        "description": "Photonic Bitcoin is a cryptocurrency working on blockchain development and use cases while using a future proof algorithm called Heavyhash."
+    },
+    {
+        "name": "Buntu",
+        "symbol": "BNTU",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/buntu.png",
+        "issue_date": "2021-11-11",
+        "total_supply": "18,000,000",
+        "circulation": "44,103",
+        "white_paper": "-",
+        "website": "https://buntucryptocurrency.com/",
+        "block_explorer": "http://explorer.buntucryptocurrency.com/",
+        "description": "Buntu's mission is to create an entertainment platform utilizing blockchain technology."
+    },
+    {
+        "name": "Waya Wolf Coin",
+        "symbol": "WW",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/wayawolfcoin.png",
+        "issue_date": "2016-10-21",
+        "total_supply": "11,000,000",
+        "circulation": "7,979,188",
+        "white_paper": "-",
+        "website": "https://wayawolfgroup.online/wwc/",
+        "block_explorer": "http://164.68.119.156/",
+        "description": "The Waya Wolf Coin is for online stores, goods, payments and more!"
+    },
+    {
+        "name": "Bitweb",
+        "symbol": "BTE",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/bitweb.png",
+        "issue_date": "2021-05-19",
+        "total_supply": "84,000,000",
+        "circulation": "19,001,327",
+        "white_paper": "-",
+        "website": "https://bitwebcore.org/",
+        "block_explorer": "https://explorer.bitwebcore.org/",
+        "description": "Bitweb is New Peer-to-Peer Electronic Cash System."
     }
 ]
