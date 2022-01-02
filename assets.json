@@ -636,18 +636,6 @@
         "description": "GNTL Coin is an open-source community driven coin."
     },
     {
-        "name": "Azzycoin",
-        "symbol": "AZY",
-        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/azzycoin.png",
-        "issue_date": "2021-10-29",
-        "total_supply": "600,000,000",
-        "circulation": "155,789,100",
-        "white_paper": "-",
-        "website": "https://azzycoin.com/",
-        "block_explorer": "http://azzyexplorer.com/",
-        "description": "AzzyCoin is an online forum - by the community, for the community."
-    },
-    {
         "name": "Kryptokrona",
         "symbol": "XKR",
         "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/kryptokrona.png",
