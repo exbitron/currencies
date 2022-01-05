@@ -72,6 +72,18 @@
         "description": "Bitcoin Cash is a hard fork of Bitcoin which was developed to fight Bitcoin’s scalability problem. Bitcoin Cash mining is very similar to that of its predecessor, the codebase of the fork wasn’t changed critically either."
     },
     {
+        "name": "Exbitron Digital Token",
+        "symbol": "EXTO",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/logo/EXBITRON_200x200.png",
+        "issue_date": "2021-10-22",
+        "total_supply": "100,000,000",
+        "circulation": "-",
+        "white_paper": "https://exbitron.digital/whitepaper.pdf",
+        "website": "https://exbitron.digital/",
+        "block_explorer": "https://tronscan.org/#/token20/TBkh7fAZRsbdkqjy6MyGCqpeGWzboayzeY",
+        "description": "Exbitron Digital Token is the native cryptocurrency of Exbitron exchange."
+    },
+    {
         "name": "Yadacoin",
         "symbol": "YDA",
         "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/yada.png",
