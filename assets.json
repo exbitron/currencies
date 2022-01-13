@@ -766,5 +766,65 @@
         "website": "https://bitwebcore.org/",
         "block_explorer": "https://explorer.bitwebcore.org/",
         "description": "Bitweb is New Peer-to-Peer Electronic Cash System."
-    }
+    },
+    {
+        "name": "Scalaris",
+        "symbol": "SCA",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/scalaris.png",
+        "issue_date": "2021-03-08",
+        "total_supply": "-",
+        "circulation": "6,535,898",
+        "white_paper": "-",
+        "website": "https://scalaris.info/",
+        "block_explorer": "https://explorer.scalaris.info/",
+        "description": "Scalaris offers completely decentralized and trustless trading via cross-chain atomic swaps like blocknet."
+    },
+    {
+        "name": "BitcoinZ",
+        "symbol": "BTCZ",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/btcz.png",
+        "issue_date": "2017-09-09",
+        "total_supply": "21,000,000,000",
+        "circulation": "10,755,521,135",
+        "white_paper": "https://drive.google.com/file/d/19eJ09gwba5Ix9k3Y8Kk7NqdTbnUTFXDj/view?usp=sharing",
+        "website": "https://btcz.rocks/",
+        "block_explorer": "https://explorer.btcz.rocks/",
+        "description": "BitcoinZ In Decentralization We Trust."
+    },
+    {
+        "name": "Gold Cash",
+        "symbol": "GOLD",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/goldcash.png",
+        "issue_date": "2021-09",
+        "total_supply": "200,000",
+        "circulation": "79,376",
+        "white_paper": "https://www.gold-cash.org/GoldCashWhitePaper.pdf",
+        "website": "https://gold-cash.org/",
+        "block_explorer": "http://explorer.goldcashcrypto.co.uk/",
+        "description": "Gold Cash is a coin to digitize gold, pushing the idea of possessing valuable assets."
+    },
+    {
+        "name": "Bitcoin Squared",
+        "symbol": "BTCSQ",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/BTCSQ.png",
+        "issue_date": "2021-12-09",
+        "total_supply": "21,000,000",
+        "circulation": "625,603",
+        "white_paper": "-",
+        "website": "https://veriblock.org/labs/btcsq/",
+        "block_explorer": "https://chainz.cryptoid.info/btcsq/",
+        "description": "Bitcoin Squared (BTCSQ), the world’s first blockchain secured against 51% attacks in an entirely Decentralized, Trustless, Transparent, and Permissionless (“DTTP®”) manner through the VeriBlock® security network."
+    },
+    {
+        "name": "Bitflate",
+        "symbol": "BFL",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/bitflate.png",
+        "issue_date": "2021-12-09",
+        "total_supply": "21,000,000",
+        "circulation": "12,373,457",
+        "white_paper": "-",
+        "website": "https://bitflate.org/",
+        "block_explorer": "https://explorer.bitflate.org/",
+        "description": "Bitcoin Squared (BTCSQ), the world’s first blockchain secured against 51% attacks in an entirely Decentralized, Trustless, Transparent, and Permissionless (“DTTP®”) manner through the VeriBlock® security network."
+    },
 ]
