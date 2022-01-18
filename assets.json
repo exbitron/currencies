@@ -826,5 +826,17 @@
         "website": "https://bitflate.org/",
         "block_explorer": "https://explorer.bitflate.org/",
         "description": "Bitcoin Squared (BTCSQ), the world’s first blockchain secured against 51% attacks in an entirely Decentralized, Trustless, Transparent, and Permissionless (“DTTP®”) manner through the VeriBlock® security network."
+    },
+    {
+        "name": "Sugarchain",
+        "symbol": "SUGAR",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/sugarchain.png",
+        "issue_date": "2019-08-24",
+        "total_supply": "1,073,741,824",
+        "circulation": "594,454,359",
+        "white_paper": "https://sugarchain.org/whitepaper/",
+        "website": "https://sugarchain.org/",
+        "block_explorer": "https://1explorer.sugarchain.org/",
+        "description": "Sugarchain is a decentralized, peer-to-peer (P2P) digital currency and payment network supported by an open-source blockchain protocol, launched by Zenny Kim and Volodymyr Biloshytskyi on August 24, 2019."
     }
 ]
