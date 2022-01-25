@@ -13,5 +13,10 @@
     "url": "#",
     "subject": "Scheduled maintenance on 05.12.2021 at 10:00-14:00 CET",
     "content": "FAST MAINTENACE. We are going to replace old CAPTCHA so you all can log in ASAP."
+  },
+    {
+    "url": "#",
+    "subject": "Butkoin Swap Announcement",
+    "content": "</strong>Butkoin (BUT)</strong> deposits and withdrawals are stopped until </strong>SWAP</strong> to BUTK new chain, which will happen on 1st February. We will automatically swap your existing coins in our wallet, so you don't need take any action."
   }
 ]
