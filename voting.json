@@ -2,6 +2,7 @@
  {
     "url": "https://etherscan.io/token/0x4Fabb145d64652a948d72533023f6E7A623C7C53",
     "name": "BUSD Token",
+    "ticker": "BUSD",
     "image": "https://etherscan.io/token/images/binanceusd_32.png",
     "trx_address": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/siteANN/PULSAR_SITE_ANN.png"
   }
