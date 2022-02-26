@@ -92,7 +92,7 @@
         "circulation": "18,261,275,050",
         "white_paper": "https://whitepaper.io/document/10/binance-whitepaper",
         "website": "https://www.binance.com/en/busd",
-        "block_explorer": "https://bscscan.com/",
+        "block_explorer": "https://bscscan.com/token/0xe9e7cea3dedca5984780bafc599bd69add087d56",
         "description": "Binance. BUSD is a 1:1 USD-backed stablecoin approved by the New York State Department of Financial Services (NYDFS), issued in partnership with Paxos."
     },
     {
@@ -958,5 +958,5 @@
         "website": "http://snowflake-net.com/",
         "block_explorer": "http://explorer.snowflake-net.com/",
         "description": "Snowflake is a decentralized, Peer-to-Peer cryptocurrency which is private and quick. Our vision is to deliver a secure, private, fast and fun currency to improve the future."
-    },
+    }
 ]
