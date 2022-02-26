@@ -72,6 +72,30 @@
         "description": "Bitcoin Cash is a hard fork of Bitcoin which was developed to fight Bitcoin’s scalability problem. Bitcoin Cash mining is very similar to that of its predecessor, the codebase of the fork wasn’t changed critically either."
     },
     {
+        "name": "Binance Coin",
+        "symbol": "BNB",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/bnb.png",
+        "issue_date": "2017-07",
+        "total_supply": "200,000,000",
+        "circulation": "165,116,760",
+        "white_paper": "https://whitepaper.io/document/10/binance-whitepaper",
+        "website": "https://www.binance.com/en/bnb",
+        "block_explorer": "https://bscscan.com/",
+        "description": "BNB is the cryptocurrency coin that powers the BNB Chain ecosystem. As one of the world's most popular utility tokens, not only can you trade BNB like any other cryptocurrency, you can also use BNB in a wide range of applications and use cases."
+    },
+    {
+        "name": "Binance USD",
+        "symbol": "BUSD",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/busd.png",
+        "issue_date": "2019-09-05",
+        "total_supply": "18,131,832,562",
+        "circulation": "18,261,275,050",
+        "white_paper": "https://whitepaper.io/document/10/binance-whitepaper",
+        "website": "https://www.binance.com/en/busd",
+        "block_explorer": "https://bscscan.com/",
+        "description": "Binance. BUSD is a 1:1 USD-backed stablecoin approved by the New York State Department of Financial Services (NYDFS), issued in partnership with Paxos."
+    },
+    {
         "name": "Exbitron Digital Token",
         "symbol": "EXTO",
         "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/logo/EXBITRON_200x200.png",
@@ -838,5 +862,101 @@
         "website": "https://sugarchain.org/",
         "block_explorer": "https://1explorer.sugarchain.org/",
         "description": "Sugarchain is a decentralized, peer-to-peer (P2P) digital currency and payment network supported by an open-source blockchain protocol, launched by Zenny Kim and Volodymyr Biloshytskyi on August 24, 2019."
-    }
+    },
+    {
+        "name": "Konjungate",
+        "symbol": "KONJ",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/konjungate.png",
+        "issue_date": "2019-05-29",
+        "total_supply": "21,000,000,000",
+        "circulation": "980,756,594",
+        "white_paper": "-",
+        "website": "https://www.konjungate.net/",
+        "block_explorer": "http://explore.konjungate.net/",
+        "description": "The KONJUNGATE network collaborates with visionary leaders and communities to build a new, trusted global ecosystem for the arts and beyond."
+    },
+    {
+        "name": "BabyCoin",
+        "symbol": "BABY",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/babycoin.png",
+        "issue_date": "2021-12-26",
+        "total_supply": "55,000,000",
+        "circulation": "-",
+        "white_paper": "-",
+        "website": "https://babycoin.dev/",
+        "block_explorer": "https://blockchain.babycoin.dev/",
+        "description": "BabyCoin is a state-of-the-art cryptocurrency based on Arqma and Evolution projects."
+    },
+    {
+        "name": "PulsarCoin",
+        "symbol": "PLSR",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/pulsar.png",
+        "issue_date": "2022-01-31",
+        "total_supply": "500,000,000",
+        "circulation": "55,132,892",
+        "white_paper": "https://abaf230f-0ce3-472b-8c99-2ef0cf620d75.filesusr.com/ugd/9e9aa0_9dccab7361d14818a7858ab3fb0c6b90.pdf",
+        "website": "https://pulsarcoin.org/",
+        "block_explorer": "https://explorer.pulsarcoin.org/",
+        "description": "PulsarCoin - ANY PAYMENT.ANYWHERE.WE HAVE YOUR BACK"
+    },
+    {
+        "name": "Bitcoin DX",
+        "symbol": "BCDX",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/bitcoindx.png",
+        "issue_date": "2021-12-31",
+        "total_supply": "21,000,000,000",
+        "circulation": "11,281,422,552",
+        "white_paper": "https://bitcoin-dx.org/white-paper/",
+        "website": "https://bitcoin-dx.org/",
+        "block_explorer": "https://explorer.bitcoindeluxe.org/",
+        "description": "Bitcoin DX (BCDX) is an open source cryptocurrency on it’s own independent blockchain. It is a hard-fork of Bitcoin Core 0.22 and built to be feature-rich, reliable and secure.."
+    },
+    {
+        "name": "Dingocoin",
+        "symbol": "DINGO",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/dingocoin.png",
+        "issue_date": "2021-04-12",
+        "total_supply": "∞",
+        "circulation": "95,238,872,502",
+        "white_paper": "-",
+        "website": "https://dingocoin.org/",
+        "block_explorer": "https://explorer.dingocoin.org/",
+        "description": "Dingocoin - Dogecoin Parody"
+    },
+    {
+        "name": "Raptoreum",
+        "symbol": "RTM",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/raptoreum.png",
+        "issue_date": "2018-11-08",
+        "total_supply": "21,000,000,000",
+        "circulation": "1,284,392,880",
+        "white_paper": "https://docs.raptoreum.com/docs/about-raptoreum/papers/raptoreumlightpaper",
+        "website": "https://raptoreum.com/",
+        "block_explorer": "https://explorer.raptoreum.com/",
+        "description": "Raptoreum is focused on solving real world problems through innovation and Blockchain technology."
+    },
+    {
+        "name": "MagpieCoin",
+        "symbol": "MGPC",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/magpiecoin.png",
+        "issue_date": "2021-03-12",
+        "total_supply": "68,950,000,000",
+        "circulation": "18,366,484,038",
+        "white_paper": "-",
+        "website": "http://magpiecoin.org/",
+        "block_explorer": "http://175.178.84.117:89/",
+        "description": "MagpieCoin - Yet Another CPU Mineable POW Cryptocurrency using Yespower Algorithm."
+    },
+    {
+        "name": "Snowflake",
+        "symbol": "SNW",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/snowflake.png",
+        "issue_date": "2021-12-18",
+        "total_supply": "15,000,000",
+        "circulation": "-",
+        "white_paper": "-",
+        "website": "http://snowflake-net.com/",
+        "block_explorer": "http://explorer.snowflake-net.com/",
+        "description": "Snowflake is a decentralized, Peer-to-Peer cryptocurrency which is private and quick. Our vision is to deliver a secure, private, fast and fun currency to improve the future."
+    },
 ]
