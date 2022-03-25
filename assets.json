@@ -276,18 +276,6 @@
         "description": "Danecoin is a revolutionary peer-to-peer electronic cash system that allows you to send money over the internet, without any restrictions."
     },
     {
-        "name": "Minidoge",
-        "symbol": "MINU",
-        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/minidoge.png",
-        "issue_date": "2017",
-        "total_supply": "1,000,000",
-        "circulation": "-",
-        "white_paper": "-",
-        "website": "https://minidoge.pw",
-        "block_explorer": "https://openchains.info/coin/minidoge/blocks",
-        "description": "Minidoge is a scrypt and auxpow cryptocurrency which has 0.5 mINU per block and will halve after 840,000 blocks."
-    },
-    {
         "name": "Espers",
         "symbol": "ESP",
         "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/esp.png",
@@ -703,8 +691,8 @@
         "total_supply": "100,000,000",
         "circulation": "59,627,609",
         "white_paper": "-",
-        "website": "https://bitblocks.cc/",
-        "block_explorer": "http://explorer.bitblocks.cc/",
+        "website": "https://bitblocksdao.org/",
+        "block_explorer": "http://xbbscan.bitblocksdao.org/",
         "description": "Bitblocks has its own blockchain on which users can mine the native currency coins, XBB."
     },
     {
@@ -958,5 +946,53 @@
         "website": "http://snowflake-net.com/",
         "block_explorer": "http://explorer.snowflake-net.com/",
         "description": "Snowflake is a decentralized, Peer-to-Peer cryptocurrency which is private and quick. Our vision is to deliver a secure, private, fast and fun currency to improve the future."
+    },
+    {
+        "name": "Evolution",
+        "symbol": "EVOX",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/evolutionx.png",
+        "issue_date": "2020-03-04",
+        "total_supply": "55,000,000",
+        "circulation": "12,503,642",
+        "white_paper": "-",
+        "website": "https://evolution-network.org/",
+        "block_explorer": "https://explorer.evolution-network.org/",
+        "description": "Evolution is a Privacy Coin build on blockchain infrastructure. Is a project that was born from passion and learning, it was made to make cryptocurrency popular and learning about it but at the same time aim to be secure and private."
+    },
+    {
+        "name": "Kylacoin",
+        "symbol": "KCN",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/kylacoin.png",
+        "issue_date": "2022-02-06",
+        "total_supply": "21,000",
+        "circulation": "-",
+        "white_paper": "https://kylacoin.v6.army/kylacoin_whitepaper.pdf",
+        "website": "https://kylacoin.v6.army/",
+        "block_explorer": "https://web.letshash.it/explorer/KCN",
+        "description": "Kylacoin is an open source P2P money and a payment network based on blockchain."
+    },
+    {
+        "name": "Riecoin",
+        "symbol": "RIC",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/riecoin.png",
+        "issue_date": "2014-02-03",
+        "total_supply": "84,000,000",
+        "circulation": "63,093,550",
+        "white_paper": "-",
+        "website": "https://riecoin.dev/en/Home",
+        "block_explorer": "https://chainz.cryptoid.info/ric/",
+        "description": "Riecoin is a decentralized and open source peer to peer digital currency, released in 2014. It is a fork of Bitcoin, also Proof of Work (PoW) based, and proposes similar features. However, its PoW is better, and this is what distiguishes Riecoin from similar currencies."
+    },
+    {
+        "name": "ChainOX",
+        "symbol": "CHOX",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/chainox.png",
+        "issue_date": "2022-02-01",
+        "total_supply": "100,000,000",
+        "circulation": "465,117",
+        "white_paper": "-",
+        "website": "https://chainox.net/",
+        "block_explorer": "https://explorer.chainox.net/",
+        "description": "ChainOX - Proof-of-Work and Masternode technologies together with 0x10 (phiCHOX) own unique hashing algorithm"
     }
 ]
