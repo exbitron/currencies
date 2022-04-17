@@ -1,22 +1,12 @@
 [
   {
+    "url": "https://giekicoin.com/swap/",
+    "subject": "Gieki Credits (TRC-20) swap to new GiekiCoin (BEP-20)",
+    "content": "We ask everyone who has <strong>Gieki Credits (GKG)</strong> on our exchange, to visit the swap page immediately (https://giekicoin.com/swap/), because from <strong>April 16</strong> to <strong>April 25</strong> there is a swap from TRC-20 to BEP-20 token. Follow the instructions on the website to swap coins.<br>"
+  },
+  {
     "url": "#",
     "subject": "Butkoin Swap Announcement",
     "content": "<strong>Butkoin (BUT)</strong> deposits and withdrawals are stopped until <strong>SWAP</strong> to BUTK new chain, which will happen on <strong>1st February</strong>. We will automatically swap your existing coins in our wallet, so you don't need take any action."
-  },
-  {
-    "url": "#",
-    "subject": "Scheduled maintenance on 21.12.2021 at 20:00-21:00 CET",
-    "content": "Maintenance will take maximum <strong>1 hour</strong> if everything goes well. New Frontend updates, performance updates and Neuralium (IUM) markets opening (IUM/BTC, IUM/USDT). We suggest everyone to <strong>DO NOT</strong> deposit anything to exchange during maintenance."
-  },
-  {
-    "url": "#",
-    "subject": "Planed maintenance on 09.12.2021 at 17:00-17:20 CET",
-    "content": "05.12 Update maintenance will happen, which will take <strong>maximum 4</strong> hours. We are preparing IUM (finally) listing, fixing frontend bugs, edit cryptonote coins, and some small fixes. The RVL will stop all deposits on 05.12 so that all will run through, and start of the AVN deposits will resume after rebranding, the balances from the RVL will automatically move to the AVN, the RVL markets will shut down and the AVN will open We will also increase the minimum deposit ammount on coins because people don't listen to us and keep sending thousands of very small transactions every second from mining pools. We change ToS that mining on the exchange wallet will be AT YOUR OWN RISK and we will NOT provide support in missing transactions or other issues that have been risen between the pool and our exchange. So mining on the exchange will be prohibited!"
-  },
-  {
-    "url": "#",
-    "subject": "Scheduled maintenance on 05.12.2021 at 10:00-14:00 CET",
-    "content": "FAST MAINTENACE. We are going to replace old CAPTCHA so you all can log in ASAP."
   }
 ]
