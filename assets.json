@@ -384,30 +384,6 @@
         "description": "Scala is an open-source cryptocurrency."
     },
     {
-        "name": "Safechain",
-        "symbol": "SFC",
-        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/sfc.png",
-        "issue_date": "2021-07-28",
-        "total_supply": "600,000,000",
-        "circulation": "-",
-        "white_paper": "-",
-        "website": "TBA",
-        "block_explorer": "TBA",
-        "description": "Safechain is a Safemoon crypto spin-off ."
-    },
-    {
-        "name": "British Pound Coin",
-        "symbol": "GPBS",
-        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/gpbs.png",
-        "issue_date": "2021-08-07",
-        "total_supply": "66,650,000",
-        "circulation": "11,671,786",
-        "white_paper": "-",
-        "website": "https://www.britishpoundcoin.co.uk/",
-        "block_explorer": "http://explorer.britishpoundcoin.co.uk/",
-        "description": "The British Pound Coin is a decentralized peer-to-peer banking financial platform to replace the classic British Pound Coin GBP in the cryptocurrency market, created under an open-source license, featuring a built-in cryptocurrency, end-to-end encrypted messaging, and decentralized marketplace."
-    },
-    {
         "name": "Lotus",
         "symbol": "XPI",
         "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/lotus.png",
