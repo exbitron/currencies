@@ -1,5 +1,10 @@
 [
   {
+    "url": "#",
+    "subject": "ChainOX (CHOX) deposits stopped until further notice",
+    "content": "We are <strong>turning off CHOX deposits</strong> until further notice due to an error in the code which causes us problems when receiving deposits. We stop the CHOX deposits until error is fixed due to our safety and the safety of our users.<br>"
+  },
+  {
     "url": "https://giekicoin.com/swap/",
     "subject": "Gieki Credits (TRC-20) swap to new GiekiCoin (BEP-20)",
     "content": "We ask everyone who has <strong>Gieki Credits (GKG)</strong> on our exchange, to visit the swap page immediately (https://giekicoin.com/swap/), because from <strong>April 16</strong> to <strong>April 25</strong> there is a swap from TRC-20 to BEP-20 token. Follow the instructions on the website to swap coins.<br>"
