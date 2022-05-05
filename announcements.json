@@ -1,13 +1,13 @@
 [
   {
     "url": "#",
-    "subject": "ChainOX (CHOX) deposits stopped until further notice",
-    "content": "We are <strong>turning off CHOX deposits</strong> until further notice due to an error in the code which causes us problems when receiving deposits. We stop the CHOX deposits until error is fixed due to our safety and the safety of our users.<br>"
+    "subject": "Bitoreum (BTM) will change ticker to BTRM",
+    "content": "On Friday (tommorow) at 12:00 our time (CEST) there will be maintenance that will last a maximum of an hour 🛠️. ⚠️  So on Friday at 6:00am (CEST), <strong>deposits for BTM will be closed (stopped)</strong> and we ask people to <strong>REALLY STOP DEPOSITING</strong>, because we will <strong>NOT</strong> credit anyone with a deposit that will be sent to the address after six o'clock (after 6:00) ⚠️. We will move the balances under a new ticker and since it is a production database, it requires gentle treatment and therefore all deposits must be closed, so we close them 6 hours early so that they all go through the confirmations sent before six o'clock and we can change the ticker and move all data.<br> Deposits of Bitoreum will probably open after maintenance at 13:00 (CEST).<br>"
   },
   {
-    "url": "https://giekicoin.com/swap/",
-    "subject": "Gieki Credits (TRC-20) swap to new GiekiCoin (BEP-20)",
-    "content": "We ask everyone who has <strong>Gieki Credits (GKG)</strong> on our exchange, to visit the swap page immediately (https://giekicoin.com/swap/), because from <strong>April 16</strong> to <strong>April 25</strong> there is a swap from TRC-20 to BEP-20 token. Follow the instructions on the website to swap coins.<br>"
+    "url": "#",
+    "subject": "ChainOX (CHOX) deposits stopped until further notice",
+    "content": "We are <strong>turning off CHOX deposits</strong> until further notice due to an error in the code which causes us problems when receiving deposits. We stop the CHOX deposits until error is fixed due to our safety and the safety of our users.<br>"
   },
   {
     "url": "#",
