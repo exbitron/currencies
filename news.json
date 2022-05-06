@@ -4,16 +4,16 @@
     "message": "🚨🚨🚨"
   },
   {
-    "url": "https://www.exbitron.com/trading/btmusdt",
+    "url": "https://www.exbitron.com/trading/btrmusdt",
     "message": "Bitoreum LISTED! 🎉",
-    "ticker": "btmusdt",
+    "ticker": "btrmusdt",
     "date": "2022-04-13"
   },
   {
-    "url": "https://www.exbitron.com/trading/reanusdt",
-    "message": "Endless Runner Fish Coin LISTED! 🎉",
-    "ticker": "erfcusdt",
-    "date": "2022-04-07"
+    "url": "https://www.exbitron.com/trading/bitrausdt",
+    "message": "Bitranium LISTED! 🎉",
+    "ticker": "bitrausdt",
+    "date": "2022-05-05"
   },
   {
     "url": "https://www.exbitron.com/trading/sykusdt",
