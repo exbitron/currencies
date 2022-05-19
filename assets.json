@@ -1005,6 +1005,54 @@
         "white_paper": "https://www.sykcoin.com/wp-content/uploads/2022/02/wp-eng.pdf",
         "website": "https://sykcoin.com/",
         "block_explorer": "http://explorer.sykcoin.com/",
-        "description": "Bitoreum - A secure asset with private blockchain that can be mined and staked."
+        "description": "SyK Coin"
+    },
+    {
+        "name": "MazaCoin",
+        "symbol": "MAZA",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/mazacoin.png",
+        "issue_date": "2014-06-22",
+        "total_supply": "2,419,200,000",
+        "circulation": "1,971,558,459",
+        "white_paper": "-",
+        "website": "http://www.mazacoin.org/",
+        "block_explorer": "https://mazacha.in/",
+        "description": "MAZA is a Cryptocurrency Network for All Sovereign Tribes & Sovereign Indigenous Peoples. MazaCoin is the first cryptocurrency to have been adopted by Native Americans, and the first one to become an official currency among a tribe.Maza is the official reserve currency of the Oglala Lakota Nation of North and South Dakota since 2014."
+    },
+    {
+        "name": "Bitranium",
+        "symbol": "BITRA",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/bitranium.png",
+        "issue_date": "2021",
+        "total_supply": "250,000,000,000",
+        "circulation": "101,594,854",
+        "white_paper": "https://bitranium.com/WP_EN.pdf",
+        "website": "https://bitranium.com/",
+        "block_explorer": "https://bitrascan.com/",
+        "description": "Bitranium is a Blockchain, Crypto Architecture, and New Generation Payment System project developed to integrate into the new world."
+    },
+    {
+        "name": "GemLink",
+        "symbol": "GLINK",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/gemlink.png",
+        "issue_date": "2022-02-18",
+        "total_supply": "160,000,000",
+        "circulation": "55,809,670",
+        "white_paper": "-",
+        "website": "https://gemlink.org/",
+        "block_explorer": "https://explorer.gemlink.org/",
+        "description": "Gemlink. A blockchain solution for those who really believe in cryptocurrency."
+    },
+    {
+        "name": "Bancc",
+        "symbol": "sBanc",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/tokens/bancc.png",
+        "issue_date": "2022",
+        "total_supply": "3,000,000,000",
+        "circulation": "-",
+        "white_paper": "https://doc.bancc.io/whitepaper/",
+        "website": "https://bancc.io/",
+        "block_explorer": "https://bscscan.com/token/0x1bd8ca161f0b311162365248b39b38f85e238345",
+        "description": "Bancc is a decentralised financial platform that is bridging the gap between existing technologies with blockchain possibilities. We are solving everyday problems for everyone in the world. Lightning fast transactions, no high fees and decentralised."
     }
 ]
