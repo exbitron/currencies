@@ -727,8 +727,8 @@
         "total_supply": "84,000,000",
         "circulation": "19,001,327",
         "white_paper": "-",
-        "website": "https://bitwebcore.org/",
-        "block_explorer": "https://explorer.bitwebcore.org/",
+        "website": "https://bitwebcore.net/",
+        "block_explorer": "https://explorer.bitwebcore.net/",
         "description": "Bitweb is New Peer-to-Peer Electronic Cash System."
     },
     {
@@ -1054,5 +1054,17 @@
         "website": "https://bancc.io/",
         "block_explorer": "https://bscscan.com/token/0x1bd8ca161f0b311162365248b39b38f85e238345",
         "description": "Bancc is a decentralised financial platform that is bridging the gap between existing technologies with blockchain possibilities. We are solving everyday problems for everyone in the world. Lightning fast transactions, no high fees and decentralised."
+    },
+    {
+        "name": "Kaspa",
+        "symbol": "KAS",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/tokens/kaspa2.png",
+        "issue_date": "2021",
+        "total_supply": "28,376,234,058",
+        "circulation": "8,535,813,860",
+        "white_paper": "https://medium.com/@shai.wyborski/kaspa-what-are-we-actually-doing-here-fd7b2e420ad1",
+        "website": "https://kaspanet.org/",
+        "block_explorer": "http://katnip.kaspanet.org/",
+        "description": "Kaspa is a proof-of-work cryptocurrency which implements the GHOSTDAG protocol. Unlike traditional blockchains, GHOSTDAG does not orphan blocks created in parallel, rather allows them to coexist and orders them in consensus."
     }
 ]
