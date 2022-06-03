@@ -4,10 +4,10 @@
     "message": "🚨🚨🚨"
   },
   {
-    "url": "https://www.exbitron.com/trading/btrmusdt",
-    "message": "Bitoreum LISTED! 🎉",
-    "ticker": "btrmusdt",
-    "date": "2022-04-13"
+    "url": "https://www.exbitron.com/trading/glinkusdt",
+    "message": "GemLink LISTED! 🎉",
+    "ticker": "glinkusdt",
+    "date": "2022-05-06"
   },
   {
     "url": "https://www.exbitron.com/trading/bitrausdt",
@@ -16,16 +16,22 @@
     "date": "2022-05-05"
   },
   {
-    "url": "https://www.exbitron.com/trading/sykusdt",
-    "message": "SyK Coin LISTED 🎉",
-    "ticker": "sykusdt",
-    "date": "2022-04-14"
+    "url": "https://www.exbitron.com/trading/kasusdt",
+    "message": "Kaspa LISTED 🎉",
+    "ticker": "kasusdt",
+    "date": "2022-05-27"
   },
   {
-    "url": "https://www.exbitron.com/trading/choxusdt",
-    "message": "MazaCoin LISTED 🎉",
-    "ticker": "mazausdt",
-    "date": "2022-04-22"
+    "url": "https://www.exbitron.com/trading/alltusdt",
+    "message": "Alltcoin LISTED 🎉",
+    "ticker": "alltusdt",
+    "date": "2022-06-01"
+  },
+  {
+    "url": "https://www.exbitron.com/trading/itaseusdt",
+    "message": "Itasecoin LISTED 🎉",
+    "ticker": "itaseusdt",
+    "date": "2022-06-03"
   },
   {
     "url": "#",
