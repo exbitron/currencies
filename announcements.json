@@ -1,6 +1,11 @@
 [
   {
     "url": "#",
+    "subject": "Delisting Announcement Final Announcement",
+    "content": "<p>From June 13th, deposits are suspended for all coins being delisted from the announcement above, and also markets are disabled.</p> <p>We give everyone <strong>2 MORE WEEKS</strong> to withdraw all delisted coins.<br /><span style="text-decoration: underline;"><strong>DEADLINE: June 27th</strong></span></p><p>We are also disabling some inactive markets (means markets with almost no buy/sell orders or trades) and also main markets <strong>BCH, DGB and YDA.</strong></p>"
+  },
+  {
+    "url": "#",
     "subject": "Delisting Announcement",
     "content": "<p><u>Coins in this list will be delisted, because developers are not supporting coins anymore (abandoned) or there was almost no volume in the past months:</u><br><strong>Satocoin (SATO) -&nbsp;</strong>explorer is not working, developer is inactive<br><strong>BitcoinVG (BVG)</strong> - developer abandoned project<br><strong>Photonic Bitcoin (pBTC) -&nbsp;</strong>developer abandoned project (site and explorer are not working)<br><strong>BitcoinDX (BCDX) -&nbsp;</strong>no activity/development from developer<br><strong>Improved Bitcoin (IBTC) -&nbsp;</strong>project abandoned by developer<br><strong>RealCoin (REA)</strong> - project abandoned by developer&nbsp;<br><strong>PESP COIN (PESP) -&nbsp;</strong>no activity from developer since November 2021</p><p><br></p><p><strong>We give everyone <u>ONE WEEK</u> to Withdraw these coins from the exchange to own wallets. After one week, on June 13th, all markets and trading will be suspended, including deposits and withdrawals.</strong></p>"
   },
