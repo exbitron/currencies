@@ -168,18 +168,6 @@
         "description": "FoxdCoin is an open-source project designed to enable instant payments to anyone around the world. The aim of the project is to create a blockchain optimized specifically for the transfer of assets such as tokens from one holder to another."
     },
     {
-        "name": "IBitcoin",
-        "symbol": "IBTC",
-        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/ibtc.png",
-        "issue_date": "2020-03-18",
-        "total_supply": "84,000,000",
-        "circulation": "-",
-        "white_paper": "-",
-        "website": "https://www.ibtc.network",
-        "block_explorer": "https://explorer.ibtc.network",
-        "description": "iBTC aims to be a more decentralized version of Bitcoin. This is accomplished using Satoshi's Missing Link - VBR Decentralization Algorithm. The Variable Block Reward (VBR) feature is the engine behind promoting more decentralization."
-    },
-    {
         "name": "Ergon",
         "symbol": "XRG",
         "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/xrg.png",
@@ -238,18 +226,6 @@
         "website": "https://kevacoin.org",
         "block_explorer": "https://explorer.kevacoin.org",
         "description": "Kevacoin is a cryptocurrency for the blockchain that supports easy and flexible Key-Value data store. Use it like Redis or other popular data store, except that the data is stored on the public blockchain that is not owned by any entities"
-    },
-    {
-        "name": "Realcoin",
-        "symbol": "REA",
-        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/real.png",
-        "issue_date": "2021-02-22",
-        "total_supply": "100,000,000",
-        "circulation": "28,071,793",
-        "white_paper": "https://real-coin.in/download/RealCoin_WhitePaper_V1.pdf",
-        "website": "https://real-coin.in",
-        "block_explorer": "https://trezor.real-coin.in",
-        "description": "RealCoin Is A Digital Currency That Enables Instant Payments To Anyone, Anywhere In The World."
     },
     {
         "name": "REV Coin",
@@ -396,18 +372,6 @@
         "description": "Lotus is the Token of Appreciation"
     },
     {
-        "name": "PESP Coin",
-        "symbol": "PESP",
-        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/pespcoin.png",
-        "issue_date": "2021-06-29",
-        "total_supply": "7,900,000,000",
-        "circulation": "25,691,000",
-        "white_paper": "-",
-        "website": "https://www.pespcoin.org/",
-        "block_explorer": "http://explorer.pespcoin.com/",
-        "description": "The main utility of PESP is as a form of payment either on online shops or shops on the streets for goods and virtual goods, PESP will also be used as the only cryptocurrency on our network of online shops."
-    },
-    {
         "name": "UltraNote Infinity",
         "symbol": "XUNI",
         "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/xuni.png",
@@ -480,18 +444,6 @@
         "description": "GlobalToken (GLT) is the world’s largest proof-of-work cryptocurrency with support for 60 mining algorithms, the most algorithms of any cryptocurrency."
     },
     {
-        "name": "Bitcoin Virtual Gold",
-        "symbol": "BVG",
-        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/bvg.png",
-        "issue_date": "2021-05-19",
-        "total_supply": "21,000,000",
-        "circulation": "5,330,000",
-        "white_paper": "-",
-        "website": "https://www.bitcoinvg.org/",
-        "block_explorer": "https://explorer.bitcoinvg.org/",
-        "description": "BitcoinVG is developed to provide quick payments and store of value via the one minute Proof of Transaction (PoT) in every block."
-    },
-    {
         "name": "DigitalNote",
         "symbol": "XDN",
         "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/xdn.png",
@@ -538,18 +490,6 @@
         "website": "http://derogold.com/",
         "block_explorer": "https://explorer.derogold.com/",
         "description": "DeroGold is a digital assets project focused on preserving our life environment here on Earth."
-    },
-    {
-        "name": "Sato",
-        "symbol": "SATO",
-        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/satocoin.png",
-        "issue_date": "2021-03-10",
-        "total_supply": "8,000,000,000",
-        "circulation": "3,207,884,283",
-        "white_paper": "https://satonetwork.com/wp/Sato-wp-v1.1.pdf",
-        "website": "https://satonetwork.com/",
-        "block_explorer": "https://satoblockscan.xyz/",
-        "description": "Sato is a digital or virtual currency that is secured by cryptography, which makes it nearly impossible to counterfeit or double-spend."
     },
     {
         "name": "Gieki Credits",
@@ -682,18 +622,6 @@
         "website": "https://kotia.cash/",
         "block_explorer": "http://185.177.59.35:3001/",
         "description": "Kotia is decentralized, no single entity controls Kotia Cash."
-    },
-    {
-        "name": "Photonic Bitcoin",
-        "symbol": "pBTC",
-        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/pbtc.png",
-        "issue_date": "2021-12-07",
-        "total_supply": "42,000,000",
-        "circulation": "178,650",
-        "white_paper": "-",
-        "website": "https://photonicbitcoin.com/",
-        "block_explorer": "https://explorer.photonicbitcoin.com/",
-        "description": "Photonic Bitcoin is a cryptocurrency working on blockchain development and use cases while using a future proof algorithm called Heavyhash."
     },
     {
         "name": "Buntu",
@@ -840,18 +768,6 @@
         "description": "PulsarCoin - ANY PAYMENT.ANYWHERE.WE HAVE YOUR BACK"
     },
     {
-        "name": "Bitcoin DX",
-        "symbol": "BCDX",
-        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/bitcoindx.png",
-        "issue_date": "2021-12-31",
-        "total_supply": "21,000,000,000",
-        "circulation": "11,281,422,552",
-        "white_paper": "https://bitcoin-dx.org/white-paper/",
-        "website": "https://bitcoin-dx.org/",
-        "block_explorer": "https://explorer.bitcoindeluxe.org/",
-        "description": "Bitcoin DX (BCDX) is an open source cryptocurrency on it’s own independent blockchain. It is a hard-fork of Bitcoin Core 0.22 and built to be feature-rich, reliable and secure.."
-    },
-    {
         "name": "Dingocoin",
         "symbol": "DINGO",
         "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/dingocoin.png",
@@ -934,18 +850,6 @@
         "website": "https://riecoin.dev/en/Home",
         "block_explorer": "https://chainz.cryptoid.info/ric/",
         "description": "Riecoin is a decentralized and open source peer to peer digital currency, released in 2014. It is a fork of Bitcoin, also Proof of Work (PoW) based, and proposes similar features. However, its PoW is better, and this is what distiguishes Riecoin from similar currencies."
-    },
-    {
-        "name": "ChainOX",
-        "symbol": "CHOX",
-        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/chainox.png",
-        "issue_date": "2022-02-01",
-        "total_supply": "100,000,000",
-        "circulation": "796,781",
-        "white_paper": "-",
-        "website": "https://chainox.cc/",
-        "block_explorer": "https://chox.mining4people.com/",
-        "description": "ChainOX - Proof-of-Work and Masternode technologies together with 0x10 (phiCHOX) own unique hashing algorithm"
     },
     {
         "name": "Reacoin",
@@ -1066,5 +970,41 @@
         "website": "https://kaspanet.org/",
         "block_explorer": "http://katnip.kaspanet.org/",
         "description": "Kaspa is a proof-of-work cryptocurrency which implements the GHOSTDAG protocol. Unlike traditional blockchains, GHOSTDAG does not orphan blocks created in parallel, rather allows them to coexist and orders them in consensus."
+    },
+    {
+        "name": "All Transfer Coin",
+        "symbol": "ALLT",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/alltcoin.png",
+        "issue_date": "2022",
+        "total_supply": "TBA",
+        "circulation": "216,030",
+        "white_paper": "-",
+        "website": "https://alltcoin.online/",
+        "block_explorer": "http://explorer.alltcoin.online/",
+        "description": "ALLT Coin - Your masternode coin for every exchange!"
+    },
+    {
+        "name": "Itasecoin",
+        "symbol": "ITASE",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/itasecoin.png",
+        "issue_date": "2022-03-27",
+        "total_supply": "63.000.000",
+        "circulation": "TBA",
+        "white_paper": "-",
+        "website": "https://itasecoin.com/",
+        "block_explorer": "https://explorer.itasecoin.com/",
+        "description": "Itasecoin is a brand new cryptocurrency, a coin based on the Scrypt algorithm and developed after Litecoin."
+    },
+    {
+        "name": "Gastrocoin",
+        "symbol": "GTC",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/gastrocoin.png",
+        "issue_date": "2021-03-23",
+        "total_supply": "52,000,000",
+        "circulation": "44,967,880",
+        "white_paper": "https://gastrocoin.net/wp-content/uploads/2021/03/GC-WPv1-4.pdf",
+        "website": "https://gastrocoin.net/",
+        "block_explorer": "https://explorer.gastrocoin.net/",
+        "description": "GastroCoin - THE FUTURE OF THE RESTAURANTS' FINANCIAL SECURITY"
     }
 ]
