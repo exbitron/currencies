@@ -1006,5 +1006,17 @@
         "website": "https://gastrocoin.net/",
         "block_explorer": "https://explorer.gastrocoin.net/",
         "description": "GastroCoin - THE FUTURE OF THE RESTAURANTS' FINANCIAL SECURITY"
+    },
+    {
+        "name": "Neoxa",
+        "symbol": "NEOX",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/neoxa.png",
+        "issue_date": "2021-05-18",
+        "total_supply": "21,000,000,000",
+        "circulation": "321,151,433",
+        "white_paper": "TBA",
+        "website": "https://www.neoxa.net/",
+        "block_explorer": "https://explorer.neoxa.net/",
+        "description": "GastroCoin - THE FUTURE OF THE RESTAURANTS' FINANCIAL SECURITY"
     }
 ]
