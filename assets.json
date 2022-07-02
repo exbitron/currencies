@@ -2,7 +2,7 @@
     {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/BTC_Logo.svg/600px-BTC_Logo.svg.png",
+        "image": "https://raw.githubusercontent.com/JustFragger/crypto-icons/main/bitcoin.png",
         "issue_date": "2008-10-30",
         "total_supply": "21,000,000",
         "circulation": "19,016,933",
